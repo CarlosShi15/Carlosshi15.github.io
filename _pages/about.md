@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "Yanhao Shi - Academic Portfolio"
+title: "Welcome to my Homepage！"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-### Welcome to my Homepage
-
 
 ### About me
 
